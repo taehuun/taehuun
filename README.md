@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=WELCOME&color=timeGradient&height=300&section=header&fontSize=72&animation=fadeIn)
 
 <h1 align="center">📄 About Me<h1>
-<p align="center">
   <h2 align="center">김태훈</h2>
 
   <p align="center">안녕하세요? 컴퓨터정보통신공학과를 전공하며 앱과 웹 개발, 데이터 분석 프로젝트를 통해 쌓아온 경험과<br>
@@ -20,8 +19,6 @@
 <h4 align="center"> 🖥 Github 
   <a href="https://github.com/taehuun"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-Soyeon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
  </h4>
-
- </p>
   
 <br><br><br><br>
 <h1>📚 기술스택 📚</h1>

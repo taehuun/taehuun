@@ -2,8 +2,6 @@
 
 <h1 align="center">📄 About Me<h1>
 <p align="center">
-  <img width="267" alt="스크린샷 2023-02-07 오후 2 38 50" src="https://user-images.githubusercontent.com/39182235/217157997-a22ad09e-a2ee-41eb-87a7-3ed7eeea70bd.png">
-
   <h2 align="center">김태훈</h2>
 
   <p align="center">안녕하세요? 컴퓨터정보통신공학과를 전공하며 앱과 웹 개발, 데이터 분석 프로젝트를 통해 쌓아온 경험과<br>

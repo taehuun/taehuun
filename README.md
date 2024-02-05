@@ -1,6 +1,6 @@
-<div align=center>
-![header](https://capsule-render.vercel.app/api?type=waving&text=WELCOME&color=timeGradient&height=300&section=header&fontSize=72&animation=fadeIn)
 
+![header](https://capsule-render.vercel.app/api?type=waving&text=WELCOME&color=timeGradient&height=300&section=header&fontSize=72&animation=fadeIn)
+<div align=center>
 <h1 align="center">📄 About Me<h1>
   <h2 align="center">김태훈</h2>
 

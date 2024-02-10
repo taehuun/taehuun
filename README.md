@@ -10,10 +10,6 @@
 <h4 align="center"> 📱 Phone  +82 10-4151-7264</h4>
 
 <h4 align="center"> ✉️ Email  xogns5@naver.com</h4>
-
-<h4 align="center"> 🖥 Github 
-  <a href="https://github.com/taehuun"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-Soyeon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
- </h4>
   
 <br><br><br><br>
 <h1>📚 기술스택 📚</h1>

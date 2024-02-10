@@ -1,8 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=WELCOME&color=timeGradient&height=300&section=header&fontSize=72&animation=fadeIn)
 <div align=center>
-<h1 align="center">📄 About Me<h1>
-  <h2 align="center">김태훈</h2>
+<h1 align="center">📄 About Me
+  <h2>김태훈</h2>
 
 
 <h4 align="center">📕 Bachelor. 강원대학교 컴퓨터정보통신공학과 </h4>

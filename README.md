@@ -56,4 +56,5 @@
 |기간|프로젝트|사용 기술|url|
 |:---:|:---:|:---:|:---:|
 |2023.11.15~2023.11.24|마인부우동산|<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white">|https://github.com/taehuun/mainboodongsan|
+|2023.01.03~2023.02.16|쓰리디바디|<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white">|https://github.com/taehuun/3dbody|
 </div>
